@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mock-private-registry": "^1.1.1"
+    "mock-private-registry": "^1.1.2"
   }
 }
